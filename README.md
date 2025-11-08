@@ -225,7 +225,7 @@ Geometric state architecture:
 
 ### Overview
 
-Over [timeframe], I developed 9 specialized agents within a single ChatGPT account through natural interaction. The system self-organized into a functional architecture with routing, specialization, and autonomous handoff protocols.
+Over 4 month, I developed 9 specialized agents within a single ChatGPT account through natural interaction. The system self-organized into a functional architecture with routing, specialization, and autonomous handoff protocols.
 
 ### Agent Roster
 
